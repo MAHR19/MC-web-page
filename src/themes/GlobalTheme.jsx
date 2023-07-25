@@ -7,7 +7,7 @@ export const globalTheme = createTheme({
             main : '#FFEEDB'
         },
         secondary: {
-            main: '#FFAD85',
+            main: '#FF8E5A',
           },
     },
     typography : {
